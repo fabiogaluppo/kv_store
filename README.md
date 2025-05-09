@@ -14,6 +14,12 @@ It is fully **RESP-compatible**, meaning you can use **Redis CLI** and clients t
 
 ---
 
+### 🏃🏼‍♂️ KV Store in Action
+
+[<img src="/images/KV%20Store%20in%20action.png" width="50%"/>](/images/KV%20Store%20in%20action.png "KV STORE IN ACTION")
+
+---
+
 ### 🧩 Core Features
 
 - **RESP protocol parsing and serialization** — inspired by Redis, implemented in `resp_command_parser.hpp`
