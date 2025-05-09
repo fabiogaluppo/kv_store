@@ -47,10 +47,10 @@ It is fully **RESP-compatible**, meaning you can use **Redis CLI** and clients t
 | `zmq_monitor.hpp`        | Observes client connect/disconnect using ZeroMQ monitor API        |
 
 #### ⚙️ Main components diagram
-[<img src="/images/KV%20Store%20Main%20Components.png" width="25%"/>](/images/KV%20Store%20Main%20Components.png "KV STORE MAIN COMPONENTS DIAGRAM")
+[<img src="/images/KV%20Store%20Main%20Components.png" width="45%"/>](/images/KV%20Store%20Main%20Components.png "KV STORE MAIN COMPONENTS DIAGRAM")
 
 #### ⚙️ Backend diagram
-[<img src="/images/KV%20Store%20Backend%20Diagram.png" width="25%"/>](/images/KV%20Store%20Backend%20Diagram.png "KV STORE BACKEND DIAGRAM")
+[<img src="/images/KV%20Store%20Backend%20Diagram.png" width="45%"/>](/images/KV%20Store%20Backend%20Diagram.png "KV STORE BACKEND DIAGRAM")
 
 ---
 
