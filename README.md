@@ -16,7 +16,7 @@ It is fully **RESP-compatible**, meaning you can use **Redis CLI** and clients t
 
 ### 🏃🏼‍♂️ KV Store in Action
 
-[<img src="/images/KV%20Store%20in%20action.png" width="50%"/>](/images/KV%20Store%20in%20action.png "KV STORE IN ACTION")
+[<img src="/images/KV%20Store%20in%20action.png" width="85%"/>](/images/KV%20Store%20in%20action.png "KV STORE IN ACTION")
 
 ---
 
