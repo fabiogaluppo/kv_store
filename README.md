@@ -1,5 +1,3 @@
-[<img src="/images/KV%20Store%20Logo.png" width="25%"/>](/images/KV%20Store%20Logo.png "KV STORE LOGO")
-
 # (C++ MasterClass's) KV Store
 ### _A Lightweight In-Memory Key-Value Store for Learning and Exploration_
 - 🟢 **Easy to learn** — Designed for students and curious minds  
@@ -47,10 +45,10 @@ It is fully **RESP-compatible**, meaning you can use **Redis CLI** and clients t
 | `zmq_monitor.hpp`        | Observes client connect/disconnect using ZeroMQ monitor API        |
 
 #### ⚙️ Main components diagram
-[<img src="/images/KV%20Store%20Main%20Components.png" width="45%"/>](/images/KV%20Store%20Main%20Components.png "KV STORE MAIN COMPONENTS DIAGRAM")
+![KV STORE MAIN COMPONENTS DIAGRAM](/images/KV%20Store%20Main%20Components.png "KV STORE MAIN COMPONENTS DIAGRAM")
 
 #### ⚙️ Backend diagram
-[<img src="/images/KV%20Store%20Backend%20Diagram.png" width="45%"/>](/images/KV%20Store%20Backend%20Diagram.png "KV STORE BACKEND DIAGRAM")
+![KV STORE BACKEND DIAGRAM](/images/KV%20Store%20Backend%20Diagram.png "KV STORE BACKEND DIAGRAM")
 
 ---
 
@@ -68,6 +66,7 @@ This project serves as a foundation for deeper exploration into key-value store 
 - 🧵 **Asynchronous Execution** — Support internal async command execution for concurrency and scalability  
 
 ---
+[<img src="/images/KV%20Store%20Logo.png" width="25%"/>](/images/KV%20Store%20Logo.png "KV STORE LOGO")
 ## License
 
 MIT
