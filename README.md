@@ -5,7 +5,6 @@
 - 🎓 **Didactic focus** — Ideal for teaching databases, systems, and performance fundamentals
 
 ![KV STORE LOGO](/images/KV%20Store%20Logo.png "KV STORE LOGO")
-
 ---
 
 ### 📚 Overview
